@@ -1,0 +1,25 @@
+.name {
+  font-weight: 700;
+  font-size: 45px;
+  margin: 10px;
+  margin-bottom: 20px;
+}
+
+div {
+  margin: 7px 7px;
+}
+
+input {
+  padding: 5px;
+  margin: 10px 10px;
+  width: 100%;
+}
+
+button {
+  width: 100%;
+  margin-bottom: 10px;
+}
+
+.item-container {
+  text-align: left;
+}

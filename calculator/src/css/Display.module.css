@@ -1,0 +1,9 @@
+.inputText {
+  margin: 15px 5px;
+  width: 250px;
+  height: 70px;
+  border: 1px solid black;
+  border-radius: 2px;
+  font-size: 40px;
+  text-align: right;
+}

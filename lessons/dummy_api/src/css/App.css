@@ -1,0 +1,92 @@
+.app-container {
+  display: flex;
+  height: 100vh;
+}
+
+.post-container {
+  margin: 5px;
+}
+
+.siderbar {
+  height: 100vh;
+  background-color: black;
+}
+
+.sidebarfont {
+  display: flex;
+  justify-content: left;
+}
+
+.content {
+  display: block;
+  width: 100%;
+  /* height: 100vh; */
+}
+
+.post-card {
+  width: 40rem;
+  margin: 30px 50px;
+}
+
+
+
+.postTitle {
+  font-weight: 700;
+  margin: 7px;
+}
+
+.scrollbox {
+  background-color: #fff;
+  border: 1px solid rgb(222, 222, 222);
+  border-radius: 8px;
+  padding: 15px;
+  margin-top: 10px;
+  width: 100%;
+  height: 100px;
+  overflow-y: auto;
+  box-shadow: 0 1px 5px rgba(0, 0, 0, 0.1);
+}
+
+.customBadge {
+  margin: 5px 7px;
+}
+
+
+.react {
+  display: flex;
+  justify-content: right;
+  margin-left: 7px;
+  margin-right: 30px;
+  margin-top: 10px;
+}
+
+.reactions {
+  margin-left: 20px;
+  margin-right: 3px;
+}
+
+.icon {
+  width: 20px;
+  height: 25px
+}
+
+
+.createPost {
+  width: 85%;
+  margin-top: 50px;
+  margin-left: 10%;
+}
+
+.clickActive {
+  color: blue;
+}
+
+.message {
+  margin: 20px 0;
+  text-align: center;
+}
+
+.spinner {
+  width: 50px;
+  height: 50px;
+}

@@ -1,0 +1,19 @@
+.akItems {
+  text-align: left;
+  font-size: 20px;
+  color: orange;
+  /* display: flex;
+  justify-content: space-between; */
+  /* padding-left: 50px; */
+  border-color: rgb(201, 197, 197);
+}
+
+.button {
+  width: 80px;
+  float: right;
+}
+
+.button:active {
+  background-color: #17f8fb;
+
+}
